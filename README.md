@@ -1,2 +1,2 @@
 # Simple-Tkinter-Repository
-Tkinter Practice
+Very Simple calculator for some Tkinter Practice
